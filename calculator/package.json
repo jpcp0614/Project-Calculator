@@ -13,6 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "deploy": "(npm install && npm start)",
     "start": "react-scripts start",
     "compose:up": "(docker-compose up -d --build)",
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js, .jsx"
