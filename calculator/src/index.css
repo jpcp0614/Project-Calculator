@@ -9,7 +9,8 @@
 
 body {
   align-items: center;
-  background-image: linear-gradient(to right, var(--blue-colors-gradient));
+  background: linear-gradient(to right, var(--blue-colors-gradient));
+  color: white;
   display: flex;
   height: 100vh;
   justify-content: center;
