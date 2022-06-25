@@ -19,21 +19,9 @@ Aplicação em React
 - Cálculos simples
 - Resultado em tempo real
 
-## Deploy
+## Calculadora
 
-Para fazer o deploy desse projeto rode: (o seu navegador abrirá automaticamente)
-
-```bash
-  npm run deploy
-```
-
-Caso queira fazer uso do Docker:
-
-```bash
-  npm run compose:up
-```
-
-E acessar: http://localhost:3000
+Caso queira testar, basta acessar o link: https://calculator-jpcp0614.vercel.app/
 
 ## Aprendizados
 
